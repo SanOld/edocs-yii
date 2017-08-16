@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<toolbar>
+
+
+	<item id="button_type" action  = "button_type" type="buttonTwoState" text="Тип" img="fa fa-th-list" imgdis="fa fa-th-list"  />
+	<item id="button_author" action  = "button_author" type="buttonTwoState" text="Издатель" img="fa fa-edit" imgdis="fa fa-edit"/>
+	<item id="button_topic" action  = "button_topic" type="buttonTwoState" text="Тема" img="fa fa-text-height" imgdis="fa fa-text-height"/>
+  <item id="button_upload" action  = "button_upload" type="button" text="Загрузить файлы..." img="fa fa-upload" imgdis="fa fa-upload"/>
+  <item id="button_upload_folder" action  = "button_upload_folder" type="button" text="Загрузить из папки..." img="fa fa-cloud-upload" imgdis="fa fa-cloud-upload"/>
+
+
+</toolbar>
